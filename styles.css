@@ -1,0 +1,51 @@
+* {
+    padding: 0px;
+    margin: 0px
+    
+}
+#containers{
+    padding: 80px;
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+a:hover{
+    color: black;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+header{
+    text-align: center;
+    background-color:rgb(148,6,49);
+    padding: 100px;
+    color: aliceblue;
+
+}
+body{
+    text-align: center;
+    background-color: rgb(249,249,249);
+    color: green;
+}
+footer{
+    background-color:rgb(148,6,49);
+    padding:50px;
+}
+ul{
+    list-style: square;
+}
+.titles{
+    padding:20px
+}
+.my-intro{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 100px;
+}
+
+
+.profile-pic{
+    border-radius: 50%;
+}
