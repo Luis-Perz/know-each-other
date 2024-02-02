@@ -7,7 +7,7 @@
     padding: 80px;
 }
 a{
-    color: black;
+    color: #000000;
     text-decoration: none;
 
 }
@@ -27,7 +27,7 @@ header{
 body{
     text-align: center;
     background-color: rgb(249,249,249);
-    color: green;
+    color: #000000;
 }
 footer{
     background-color:rgb(148,6,49);
